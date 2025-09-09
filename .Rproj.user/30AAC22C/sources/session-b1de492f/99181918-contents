@@ -1,0 +1,29 @@
+---
+title: "Madison Rudkin"
+image: "madison.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/madison-rudkin-17ba59358/"
+  - label: GitHub
+    url: "https://github.com/maddierud"
+  - label: Email
+    url: "mailto:maddie.rudkin@gmail.com"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am a Junior majoring in Statistics and Data Science at the University of Texas at Austin, 
+  with a minor in Business and Chinese. I am particularly interested in the aviation industry 
+  and sports analytics.
+
+## Some of my favorite music artists:
+  - Gesaffelstein
+  - Daft Punk
+  - Tool
+  - Depeche Mode
+  - Massive Attack
+  
+  ---
+  Website built at: `r Sys.time()`
